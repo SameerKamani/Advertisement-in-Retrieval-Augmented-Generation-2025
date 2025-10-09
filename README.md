@@ -5,7 +5,8 @@
 This repository contains our submission to the **Touché Lab @ CLEF 2025** — tackling the challenge of **“Advertisements in Retrieval-Augmented Generation (RAG)”**.
 Our work explored two fundamental questions:
 
-1️⃣ Can LLMs **generate native ads** so natural they’re hard to detect? \\
+1️⃣ Can LLMs **generate native ads** so natural they’re hard to detect?
+
 2️⃣ Can we **detect** those ads effectively using transformer-based models?
 
 Our team **GitGud (Habib University)** designed a **unified RAG pipeline** and fine-tuned multiple **transformer architectures** for both generation and detection tasks.
