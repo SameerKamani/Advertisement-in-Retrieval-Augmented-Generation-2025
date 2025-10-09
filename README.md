@@ -85,11 +85,30 @@ Our final ensemble approach demonstrated **strong robustness** across multilingu
 ## 🔗 **Resources**
 
 📄 **Research Paper:** [Read on CEUR-WS / CLEF 2025 Proceedings](https://lnkd.in/dbyJXMmT)
+
 🌐 **Touché Lab Overview:** [touche.webis.de/clef25/touche25-web](https://touche.webis.de/clef25/touche25-web/advertisement-detection.html)
-📸 **Leaderboard & Conference Screenshots:** *(Attached below)*
 
 ---
 
+## 📸 **Leaderboard & Conference Screenshots**
+
+**Subtask 1 (Advertisement Generation):**
+![Subtask 1 Leaderboard](images/Subtask1.png)
+
+**Subtask 2 (Advertisement Detection):**
+![Subtask 2 Leaderboard](images/Subtask2.png)
+
+---
+
+## 🙌 **Acknowledgments**
+
+Special thanks to:
+
+* **Dr. Faisal Alvi**, **Dr. Abdul Samad** — for mentorship and guidance
+* **Teammates:** Muhammad Taqi & Ansab Chaudhary — for their hard work and collaboration
+* **Touché Organizers:** Sebastian Heineking & Johannes Kiesel — for their support and hospitality at CLEF 2025
+
+---
 
 ## 🚀 **Future Work**
 
@@ -102,6 +121,5 @@ Our final ensemble approach demonstrated **strong robustness** across multilingu
 ### 💡 *"Research isn’t just about code — it’s about curiosity, collaboration, and the courage to test what’s possible."*
 
 
----
-
-Would you like me to add a **“How to Run / Setup” section** (with environment setup + model loading instructions) or keep it as a **read-only research showcase** README (which is more polished for academic presentation)?
+Would you like me to add a **project summary badge section** at the top (e.g., Python version, framework badges like 🤗 Transformers, FAISS, PyTorch)?
+That would make it look even more polished and “GitHub-ready” for visibility.
