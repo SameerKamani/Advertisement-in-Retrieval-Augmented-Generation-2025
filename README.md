@@ -1,8 +1,3 @@
-Perfect — here’s a **clean, professional, and engaging GitHub README** description for your project.
-It highlights both your technical depth and competition achievement, and it’s structured for clarity and impact.
-
----
-
 # 🧠 GitGud at Touché 2025: Advertisement Generation & Detection in RAG-based LLMs
 
 ### 🏅 2nd & 4th International Rankings | Presented at CLEF 2025, Madrid 🇪🇸
