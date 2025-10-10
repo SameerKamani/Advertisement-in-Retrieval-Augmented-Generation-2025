@@ -119,7 +119,3 @@ Special thanks to:
 ---
 
 ### 💡 *"Research isn’t just about code — it’s about curiosity, collaboration, and the courage to test what’s possible."*
-
-
-Would you like me to add a **project summary badge section** at the top (e.g., Python version, framework badges like 🤗 Transformers, FAISS, PyTorch)?
-That would make it look even more polished and “GitHub-ready” for visibility.
