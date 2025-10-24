@@ -105,7 +105,7 @@ Our final ensemble approach demonstrated **strong robustness** across multilingu
 Special thanks to:
 
 * **Dr. Faisal Alvi**, **Dr. Abdul Samad** — for mentorship and guidance
-* **Teammates:** Muhammad Taqi & Ansab Chaudhary — for their hard work and collaboration
+* **Teammates:** Muhammad Taqi & Ansab Chaudhary & Ahmad Hanif — for their hard work and collaboration
 * **Touché Organizers:** Sebastian Heineking & Johannes Kiesel — for their support and hospitality at CLEF 2025
 
 ---
